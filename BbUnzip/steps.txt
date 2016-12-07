@@ -1,0 +1,5 @@
+1. unzip the file into data directory
+2. create directories with the name of student in data folder
+3. rename all files, the bb.txt -> memo.txt
+4. run the makefile from base directory with the input file
+5. save a log of all makefile testing into 'report' in current directory
